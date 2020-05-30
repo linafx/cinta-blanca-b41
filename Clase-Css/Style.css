@@ -1,0 +1,26 @@
+h1{
+    color: deeppink;
+}
+.menu {
+    background-color: goldenrod;
+}
+
+.titulo{
+    text-align: center
+}
+
+.link {
+    display: block;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.elemento {
+color: indianred;
+}
+
+.imagen{
+    width: 100%;
+}
